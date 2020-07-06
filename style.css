@@ -1,0 +1,8 @@
+@import url("./css/brands.min.css");
+@import url("./css/fontawesome.min.css");
+@import url("./css/regular.min.css");
+@import url("./css/solid.min.css");
+
+a { text-decoration: none; } 
+
+.m { border: 1px solid; text-align: center; float: left; margin-right: 10px; }
