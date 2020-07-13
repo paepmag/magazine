@@ -6,7 +6,7 @@
 A         { text-decoration: none; color: black; }
 A:visited { text-decoration: none; } 
 A:active  { text-decoration: none; }
-A:hover   { text-decoration: underline; color: green; }
+A:hover   { text-decoration: underline; color: blue; }
 
 /* 00a0 is a non-breaking space */
 a[href$=".txt"]:before  { font-family: "Font Awesome 5 Free"; content: "\f15b\00a0"; }
