@@ -3,7 +3,7 @@
 @import url("../css/regular.min.css");
 @import url("../css/solid.min.css");
 
-A         { text-decoration: none; }
+A         { text-decoration: none; color: inherit; }
 A:visited { text-decoration: none; } 
 A:active  { text-decoration: none; }
 A:hover   { text-decoration: underline; color: red; }
