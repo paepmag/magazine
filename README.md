@@ -26,19 +26,14 @@ Made for researchers, teachers of higher education, graduate students, students 
 ---
 
 **License**  
-Інформація про ліцензію у файлі LICENSE.txt
+Інформація про ліцензію у файлі LICENSE
 
 **Software**  
-При підготовці Вісника використано вільно росповсюджоване програмне забезпечення:
-
-* пакет офісних програм LibreOffice
-
-* векторний графічний редактор Inkscape
-
-* видавнича система Scribus
+При підготовці Вісника використано вільно росповсюджоване програмне забезпечення:  
+пакет офісних програм LibreOffice, векторний графічний редактор Inkscape, видавнича система Scribus
 
 **Fonts**  
 Використані шрифтові гарнітури Liberation та OpenSymbol
 
 **Sites**  
-[Наукова періодика України](http://journals.uran.ua/index.php/2079-8024/) Дзеркала: [Github](http://paepmag.github.io/magazine/) [Gitlab](http://paepmag.gitlab.io/magazine/) [Google Drive](http://drive.google.com/drive/folders/1NXRpr5Vx2XtpnqSujhNVaLaN9Ep8x5Lo)
+Основний: [Наукова періодика України](http://journals.uran.ua/index.php/2079-8024/) | Дзеркала: [Github](http://paepmag.github.io/magazine/) • [Gitlab](http://paepmag.gitlab.io/magazine/) • [Google Drive](http://drive.google.com/drive/folders/1NXRpr5Vx2XtpnqSujhNVaLaN9Ep8x5Lo)
