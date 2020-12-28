@@ -1,0 +1,2 @@
+A, A:visited, A:active  { text-decoration: none; }
+A:hover { text-decoration: underline; color: red; }
