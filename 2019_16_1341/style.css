@@ -1,0 +1,11 @@
+A, A:visited, A:active  { text-decoration: none; }
+A:hover { text-decoration: underline; color: red; }
+
+a[data-filetype="paep"]:after {
+  content: " \2022\ "; color: black;
+}
+
+.tz td { vertical-align: top; }
+.au { font-weight: bold; }
+.dc td:last-child { padding-left: 10px; text-align: right; }
+.fhd { border-top: 2px solid; border-bottom: 2px solid; padding-top: 20px; padding-bottom: 20px; margin-bottom: 20px; display: inline-block; }
